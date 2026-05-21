@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="150.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.0" y="-2.0" z="-2.0"/>
+      <bbMax x="2.0" y="2.0" z="2.0"/>
+      <bsCentre x="0.0" y="0.0" z="0.0"/>
+      <bsRadius value="3.0"/>
+      <hdTextureDist value="60.0"/>
+      <name>dwk_moto_rope</name>
+      <textureDictionary>dwk_moto_rope</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>dwk_moto_rope</assetName>
+      <extensions />
+    </Item>
+  </archetypes>
+  <name>dwk_moto_rope</name>
+  <dependencies />
+  <compositeEntityTypes />
+</CMapTypes>
